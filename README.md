@@ -43,7 +43,7 @@ How to Run the Backend
 
 How to Run the Frontend
 
-1. Open terminal in the React project folder
+1. Open terminal in the todo-frontend project folder
 2. Install dependencies: npm install
 3. Start the React app: npm start
 4. Open in browser: http://localhost:3000
