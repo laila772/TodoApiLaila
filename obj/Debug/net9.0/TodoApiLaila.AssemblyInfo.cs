@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TodoApiLaila")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86a86758112233d2c5851e5e1561ae7c62d8b934")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9e5456a3bb0cb89e2427cf783789e84b89ff57a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TodoApiLaila")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TodoApiLaila")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

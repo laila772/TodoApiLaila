@@ -1,6 +1,3 @@
-C:\TodoApiLaila\bin\Debug\net9.0\todo-frontend\package-lock.json
-C:\TodoApiLaila\bin\Debug\net9.0\todo-frontend\package.json
-C:\TodoApiLaila\bin\Debug\net9.0\todo-frontend\public\manifest.json
 C:\TodoApiLaila\bin\Debug\net9.0\TodoApiLaila.staticwebassets.endpoints.json
 C:\TodoApiLaila\bin\Debug\net9.0\TodoApiLaila.exe
 C:\TodoApiLaila\bin\Debug\net9.0\TodoApiLaila.deps.json
@@ -35,3 +32,6 @@ C:\TodoApiLaila\obj\Debug\net9.0\refint\TodoApiLaila.dll
 C:\TodoApiLaila\obj\Debug\net9.0\TodoApiLaila.pdb
 C:\TodoApiLaila\obj\Debug\net9.0\TodoApiLaila.genruntimeconfig.cache
 C:\TodoApiLaila\obj\Debug\net9.0\ref\TodoApiLaila.dll
+C:\TodoApiLaila\bin\Debug\net9.0\todo-frontend\package-lock.json
+C:\TodoApiLaila\bin\Debug\net9.0\todo-frontend\package.json
+C:\TodoApiLaila\bin\Debug\net9.0\todo-frontend\public\manifest.json
