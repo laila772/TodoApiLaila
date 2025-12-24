@@ -1,0 +1,22 @@
+# .NET
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Node / React
+node_modules/
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+
+# React
+todo-frontend/node_modules/
+todo-frontend/build/
