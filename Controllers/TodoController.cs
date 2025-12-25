@@ -33,7 +33,6 @@ namespace TodoApiLaila.Controllers
             return NoContent();
         }
 
-        // ✅ NEW: Update todo
         [HttpPut("{id}")]
         public IActionResult UpdateTodo(int id, [FromBody] string title)
         {
